@@ -4,10 +4,10 @@
     "subjectLine": "з дисципліни «WEB-ОРІЄНТОВАНІ ТЕХНОЛОГІЇ. BACKEND РОЗРОБКИ»"
   },
   "student": {
-    "fullName": "Прізвище Ім’я По батькові",
-    "group": "Іx-xx",
+    "fullName": "Майстренко Тимофій Валентинович",
+    "group": "ІК-33",
     "gender": "male",
-    "photo": "/students/chad.jpg"
+    "photo": ""
   },
   "toc": {
     "minDepth": 2,
