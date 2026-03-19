@@ -70,7 +70,7 @@
 
 ```ts
 const calculatePrice = (minutes: number, rate: number): number => {
-  const startPrice = 20; // фіксована ціна розблокування
+  const startPrice = 20; // фіксована ціна розблокування транспорту
   return startPrice + minutes * rate;
 };
 ```
